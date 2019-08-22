@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "allowJs": false
+    },
+    "files": [
+        "index.ts"
+    ]
+}
